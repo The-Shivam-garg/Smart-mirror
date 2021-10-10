@@ -38,10 +38,10 @@
 ### We need to install few software’s and module to obtain the desired result facilities we need as our output in the smart mirror.
 
 <h3>
-1.	Install Raspberry Pi OS
-2.	Install Magic Mirror
-3.	install modules
-4.	Magic Mirror Auto Start
-5.	Raspberry Pi auto restart
+1.	Install Raspberry Pi OS <BR>
+2.	Install Magic Mirror <BR>
+3.	install modules  <BR>
+4.	Magic Mirror Auto Start <BR>
+ 5.	Raspberry Pi auto restart <br>
 </h3>
 
