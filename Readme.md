@@ -23,6 +23,7 @@
 | [Speaker ]()     | 500/-. 
 | [Microphone]()     | 200/-. 
 | [LED lights ]()     | 400/-.
+
  | Total Components-Cost    | 20,200/- | 
 
 
