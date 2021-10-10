@@ -23,11 +23,10 @@
 | [Speaker ]()     | 500/-. 
 | [Microphone]()     | 200/-. 
 | [LED lights ]()     | 400/-.
-
- | Total Components-Cost    | 20,200/- | 
+| Total Components-Cost    | 20,200/- | 
 
 
 # : Procedure :
-<h3> Step:1 </h3>  <h1 align="center"> Frame Design </h1>
+<h1> Step:1  Frame Design </h1>
 
 ## First things First, we need to make the frame of the smart mirror.
