@@ -32,7 +32,7 @@
 ### First things First, we need to make the frame of the smart mirror.
 <h3 align="center"><img src="image/images.jfif" alt="" height="195" width="298/> </p></h3>
 <h3 align="center"><img src="image/mirror-frame-illo.jpg" alt="" height="700" width="600"/>   </p></h3>
-
+<br>
 
 # Step:2 Installation
 ### We need to install few software’s and module to obtain the desired result facilities we need as our output in the smart mirror.
@@ -45,18 +45,20 @@
 >>	Raspberry Pi auto restart <br>
 </h3>
 
+<BR>
 
 # Step:3 INTEGRATION
 ### NOW it’s the time to integrate all the components, in the previous steps we are done with the frame and software installed raspberry pi. Now we have to integrate the following into the frame: -
 
 <h3 align="left">
->monitor screen
->Two-way mirror
->raspberry pi 
->led light 
+>monitor screen <br>
+>Two-way mirror <br>
+>raspberry pi <br>
+>led light <br>
 The rest work is of connections. Now, Connection needs to be done carefully and the connection should be more Clean and well connected. 
 
 </h3>
+<br>
 
 # Step:4 Final Outlook
 ## <b>Hurray!!!!!!</b>
