@@ -13,7 +13,7 @@
 
 | Components-Required     |Cost | 
 | :---:        |    :----   |  
-| [Raspberry pi 4 module](https://github.com/The-Shivam-garg/MP-PersonalPortfolio)     | 5000/-. 
+| [Raspberry pi 4 module]()     | 5000/-. 
 | [Pi 4 case ]()   | 250/-.    | issued.© 2021 Shivam Garg
 | [Pi 4 adapter ]()     | 750/- |
 | [LED monitor ]()     | 10000/-. 
@@ -27,6 +27,6 @@
 
 
 # : Procedure :
-<h1> Step:1  Frame Design </h1>
+## Step:1  Frame Design 
 
-## First things First, we need to make the frame of the smart mirror.
+### First things First, we need to make the frame of the smart mirror.
