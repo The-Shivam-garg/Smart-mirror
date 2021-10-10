@@ -33,3 +33,15 @@
 <h3 align="center"><img src="image/images.jfif" alt="" height="195" width="298/> </p></h3>
 <h3 align="center"><img src="image/mirror-frame-illo.jpg" alt="" height="700" width="600"/>   </p></h3>
 
+
+# Step:2 Installation
+### We need to install few software’s and module to obtain the desired result facilities we need as our output in the smart mirror.
+
+<h3>
+1.	Install Raspberry Pi OS
+2.	Install Magic Mirror
+3.	install modules
+4.	Magic Mirror Auto Start
+5.	Raspberry Pi auto restart
+</h3>
+
