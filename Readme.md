@@ -45,3 +45,20 @@
 >>	Raspberry Pi auto restart <br>
 </h3>
 
+
+# Step:3 INTEGRATION
+### NOW it’s the time to integrate all the components, in the previous steps we are done with the frame and software installed raspberry pi. Now we have to integrate the following into the frame: -
+
+<h3 align="left">
+>monitor screen
+>Two-way mirror
+>raspberry pi 
+>led light 
+The rest work is of connections. Now, Connection needs to be done carefully and the connection should be more Clean and well connected. 
+
+</h3>
+
+# Step:4 Final Outlook
+## <b>Hurray!!!!!!</b>
+   ### This is the final outlook of the project.
+### In this we will get our reflection with the digital updation of various feature in the mirror itself.
