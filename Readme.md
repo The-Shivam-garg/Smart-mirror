@@ -44,7 +44,10 @@
 >>	Magic Mirror Auto Start <BR>
 >>	Raspberry Pi auto restart <br>
 </h3>
-<h3 align="center"><img src="image/aaa.jpeg" alt="" height="200" width="280" /> </p> </h3>
+<h3 align="center"><img src="image/" alt="" height="200" width="280" /> </p> </h3>
+<h3 align="center"><img src="image/" alt="" height="200" width="280" /> </p> </h3>
+<h3 align="center"><img src="image/" alt="" height="200" width="280" /> </p> </h3>
+<h3 align="center"><img src="image/" alt="" height="200" width="280" /> </p> </h3>
 
 <BR>
 
@@ -66,3 +69,5 @@ The rest work is of connections. Now, Connection needs to be done carefully and 
 ## <b>Hurray!!!!!!</b>
    ### This is the final outlook of the project.
 ### In this we will get our reflection with the digital updation of various feature in the mirror itself.
+
+<h3 align="center"><img src="image/1_ET8BI0lSvOW8w7z6xfI6YQ.jpeg" alt="" height="1200" width="780" /> </p> </h3>
