@@ -27,6 +27,6 @@
 
 
 # : Procedure :
-### Step:1  <h1 align="center"> Frame Design </h1>
+<h3> Step:1 </h3>  <h1 align="center"> Frame Design </h1>
 
 ## First things First, we need to make the frame of the smart mirror.
