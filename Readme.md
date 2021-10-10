@@ -70,4 +70,4 @@ The rest work is of connections. Now, Connection needs to be done carefully and 
    ### This is the final outlook of the project.
 ### In this we will get our reflection with the digital updation of various feature in the mirror itself.
 
-<h3 align="center"><img src="image/1_ET8BI0lSvOW8w7z6xfI6YQ.jpeg" alt="" height="1200" width="780" /> </p> </h3>
+<h3 align="center"><img src="image/1_ET8BI0lSvOW8w7z6xfI6YQ.jpeg" alt="" height="600" width="780" /> </p> </h3>
