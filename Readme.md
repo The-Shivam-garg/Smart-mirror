@@ -1,4 +1,5 @@
  <div align="center">
+
 # SMART MIRROR 
 
 ## Description: -
