@@ -31,5 +31,5 @@
 
 ### First things First, we need to make the frame of the smart mirror.
 <h3 align="center"><img src="image/images.jfif" alt="" height="195" width="298/> </p></h3>
-<h3 align="center"><img src="image/mirror-frame-illo.jpg" alt="" height="800" width="640"/>   </p></h3>
+<h3 align="center"><img src="image/mirror-frame-illo.jpg" alt="" height="700" width="600"/>   </p></h3>
 
