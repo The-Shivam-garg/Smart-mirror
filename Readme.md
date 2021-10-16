@@ -60,7 +60,6 @@ The rest work is of connections. Now, Connection needs to be done carefully and 
 
 </h3>
 <h3 align="center"><img src="image/5-Figure7-1.png" alt="" height="300" width="700"/> </p></h3>
-<h3 align="center"><img src="image/as.jpg" alt="" height="300" width="400"/> </p></h3>
 <br>
 
 # Step:4 Final Outlook
