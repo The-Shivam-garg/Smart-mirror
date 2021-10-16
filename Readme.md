@@ -13,16 +13,16 @@
 
 | Components-Required     |Cost | 
 | :---:        |    :----   |  
-| [Raspberry pi 4 module]()     | 5000/-. 
-| [Pi 4 case ]()   | 250/-.    | issued.© 2021 Shivam Garg
-| [Pi 4 adapter ]()     | 750/- |
-| [LED monitor ]()     | 10000/-. 
+| [Raspberry pi 4 module](https://www.amazon.in/s?k=rasberry+pi+4&ref=nb_sb_ss_ts-doa-p_6_3)     | 5000/-. 
+| [Pi 4 case](https://www.amazon.in/s?k=pi+case&ref=nb_sb_noss_2)   | 250/-.    | issued.© 2021 Shivam Garg
+| [Pi 4 adapter ](https://www.amazon.in/s?k=pi+adapter&ref=nb_sb_noss_2)     | 750/- |
+| [LED monitor ](https://www.amazon.in/s?k=lcd+monitor&ref=nb_sb_noss_2)     | 10000/-. 
 | [Two-way mirror ]()     | 100/-. 
-| [SD card (32 GB) ]()     | 400/-. 
-| [HDMI cable ]()     | 200/-. 
-| [Speaker ]()     | 500/-. 
-| [Microphone]()     | 200/-. 
-| [LED lights ]()     | 400/-.
+| [SD card (32 GB) ](https://www.amazon.in/s?k=sd+card+32+gb&ref=nb_sb_ss_ts-doa-p_4_4)     | 400/-. 
+| [HDMI cable ](https://www.amazon.in/s?k=hdmi+cables&ref=nb_sb_ss_ts-doa-p_4_7)     | 200/-. 
+| [Speaker ](https://www.amazon.in/s?k=small+speaker&ref=nb_sb_noss_1)     | 500/-. 
+| [Microphone](https://www.amazon.in/s?k=microphone&ref=nb_sb_noss_2)     | 200/-. 
+| [LED lights ](https://www.amazon.in/s?k=lcd+light&ref=nb_sb_noss_1)     | 400/-.
 | Total Components-Cost    | 20,200/- | 
 
 
