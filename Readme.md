@@ -46,6 +46,7 @@
 </h3>
 <h3 align="left"><img src="image/" alt="" height="100" width="180" /></h3> <h3 align="left"><img src="image/" alt="" height="100" width="180" />  </h3><h3 align="left"><img src="image/" alt="" height="100" width="180" /> </h3><h3 align="left"><img src="image/" alt="" height="100" width="180" /></h3></p> 
 
+## IF you want a Guide to install all the softwares you can check out this blog post [Program the Raspberry Pi for SMART MIRROR](https://shivanshh.hashnode.dev/program-the-raspberry-pi-for-smart-mirror)
 <BR>
 
 # Step:3 INTEGRATION
