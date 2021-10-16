@@ -31,7 +31,7 @@
 
 ### First things First, we need to make the frame of the smart mirror.
 <h3 align="center"><img src="image/images.jfif" alt="" height="195" width="298/> </p></h3>
-<h3 align="center"><img src="image/mirror-frame-illo.jpg" alt="" height="700" width="600"/>   </p></h3>
+<h3 align="center"><img src="image/mirror-frame-illo.jpg" alt="" height="400" width="500"/>   </p></h3>
 <br>
 
 # Step:2 Installation
@@ -44,7 +44,7 @@
 >>	Magic Mirror Auto Start <BR>
 >>	Raspberry Pi auto restart <br>
 </h3>
-<h3 align="left"><img src="image/" alt="" height="200" width="280" /> </p> </h3> <h3 align="left"><img src="image/" alt="" height="200" width="280" /> </p> </h3><h3 align="left"><img src="image/" alt="" height="200" width="280" /> </p> </h3><h3 align="left"><img src="image/" alt="" height="200" width="280" /> </p> </h3>
+<h3 align="left"><img src="image/" alt="" height="100" width="180" /> </p> </h3> <h3 align="left"><img src="image/" alt="" height="200" width="280" /> </p> </h3><h3 align="left"><img src="image/" alt="" height="200" width="280" /> </p> </h3><h3 align="left"><img src="image/" alt="" height="200" width="280" /> </p> </h3>
 
 <BR>
 
