@@ -59,7 +59,7 @@
 The rest work is of connections. Now, Connection needs to be done carefully and the connection should be more Clean and well connected. 
 
 </h3>
-<h3 align="center"><img src="image/5-Figure7-1.png" alt="" height="300" width="480"/> </p></h3>
+<h3 align="center"><img src="image/5-Figure7-1.png" alt="" height="300" width="700"/> </p></h3>
 <br>
 
 # Step:4 Final Outlook
