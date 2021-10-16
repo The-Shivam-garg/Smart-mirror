@@ -44,7 +44,7 @@
 >>	Magic Mirror Auto Start <BR>
 >>	Raspberry Pi auto restart <br>
 </h3>
-<h3 align="left"><img src="image/" alt="" height="100" width="180" /> </p> </h3> <h3 align="left"><img src="image/" alt="" height="100" width="180" /> </p> </h3><h3 align="left"><img src="image/" alt="" height="100" width="180" /> </p> </h3><h3 align="left"><img src="image/" alt="" height="100" width="180" /> </p> </h3>
+<h3 align="left"><img src="image/" alt="" height="100" width="180" /></h3> <h3 align="left"><img src="image/" alt="" height="100" width="180" />  </h3><h3 align="left"><img src="image/" alt="" height="100" width="180" /> </h3><h3 align="left"><img src="image/" alt="" height="100" width="180" /></h3></p> 
 
 <BR>
 
