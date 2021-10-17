@@ -107,7 +107,7 @@ It also kind of explains that when MagPi, the official Raspberry Pi Magazine, co
 </div>
 
 
-<h1 align=center> OUR VALUABLE CONTRIBUTORS✨ </h1>
+<h1 align=center> 🎊OUR VALUABLE CONTRIBUTORS🎊 </h1>
 <p align="center">
   
 	
