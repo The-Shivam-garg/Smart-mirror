@@ -119,9 +119,11 @@ It also kind of explains that when MagPi, the official Raspberry Pi Magazine, co
 
 <div align="center">
 
-<a href="https://github.com/The-Shivam-garg/MP-PersonalPortfolio"><img src="https://img.shields.io/github/stars/The-Shivam-garg/MP-PersonalPortfolio" alt="Stars Badge" /></a>
-<a href="https://github.com/The-Shivam-garg/MP-PersonalPortfolio/network/members"><img src="https://img.shields.io/github/forks/The-Shivam-garg/MP-PersonalPortfolio" alt="Forks Badge" /></a>
-<a href="https://github.com/The-Shivam-garg/MP-PersonalPortfolio/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/The-Shivam-garg/MP-PersonalPortfolio?color=2b9348" ></a>
+<a href="https://github.com/The-Shivam-garg/Smart-mirror"><img src="https://img.shields.io/github/stars/The-Shivam-garg/Smart-mirror" alt="Stars Badge" /></a>
+<a href="https://github.com/The-Shivam-garg/Smart-mirror/network/members"><img src="https://img.shields.io/github/forks/The-Shivam-garg/Smart-mirror" alt="Forks Badge" /></a>
+<a href="https://github.com/The-Shivam-garg/Smart-mirror/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/The-Shivam-garg/Smart-mirror?color=2b9348" ></a>
 
-[![GitHub license](https://img.shields.io/github/license/The-Shivam-garg/MP-PersonalPortfolio?logo=github)](https://github.com/The-Shivam-garg/MP-PersonalPortfolio/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/The-Shivam-garg/Smart-mirror?logo=github)](https://github.com/The-Shivam-garg/Smart-mirror/blob/master/LICENSE)
 </div>
+
+https://github.com/
