@@ -111,8 +111,8 @@ It also kind of explains that when MagPi, the official Raspberry Pi Magazine, co
 <p align="center">
   
 	
-<a href="https://github.com/SauravMukherjee44/Aec-Library-Website/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SauravMukherjee44/Aec-Library-Website" />
+<a href="https://github.com/The-Shivam-garg/Smart-mirror/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=The-Shivam-garg/Smart-mirror" />
 </a>
 
 <h1 align=center>Happy Coding 👨‍💻 </h1>
