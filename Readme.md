@@ -115,7 +115,7 @@ It also kind of explains that when MagPi, the official Raspberry Pi Magazine, co
   <img src="https://contrib.rocks/image?repo=The-Shivam-garg/Smart-mirror" />
 </a>
 
-<h1 align=center>Happy Coding 👨‍💻 </h1>
+<h1 align="center">Happy Coding 👨‍💻 </h1>
 
 <div align="center">
 
