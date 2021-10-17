@@ -30,8 +30,8 @@
 ## Step:1  Frame Design 
 
 ### First things First, we need to make the frame of the smart mirror.
-<h3 align="center"><img src="image/images.jfif" alt="" height="195" width="298/> </p></h3>
-<h3 align="center"><img src="image/mirror-frame-illo.jpg" alt="" height="400" width="500"/>   </p></h3>
+<h3 align="center"><img src="image/fixing.jpg" alt="" height="195" width="298/> </p></h3>
+<h3 align="center"><img src="image/color.jpg" alt="" height="400" width="500"/>   </p></h3>
 <br>
 
 # Step:2 Installation
@@ -44,7 +44,7 @@
 >>	Magic Mirror Auto Start <BR>
 >>	Raspberry Pi auto restart <br>
 </h3>
-<h3 align="left"><img src="image/" alt="" height="100" width="180" /></h3> <h3 align="left"><img src="image/" alt="" height="100" width="180" />  </h3><h3 align="left"><img src="image/" alt="" height="100" width="180" /> </h3><h3 align="left"><img src="image/" alt="" height="100" width="180" /></h3></p> 
+<h3 align="left"><img src="image/software.jpg" alt="" height="100" width="180" /></h3> <h3 align="left"><img src="image/" alt="" height="100" width="180" />  </h3><h3 align="left"><img src="image/" alt="" height="100" width="180" /> </h3><h3 align="left"><img src="image/" alt="" height="100" width="180" /></h3></p> 
 
 ## IF you want a Guide to install all the softwares you can check out this blog post [Program the Raspberry Pi for SMART MIRROR](https://shivanshh.hashnode.dev/program-the-raspberry-pi-for-smart-mirror)
 <BR>
@@ -60,7 +60,8 @@
 The rest work is of connections. Now, Connection needs to be done carefully and the connection should be more Clean and well connected. 
 
 </h3>
-<h3 align="center"><img src="image/5-Figure7-1.png" alt="" height="300" width="700"/> </p></h3>
+<h3 align="center"><img src="image/lcd fix.jpg" alt="" height="300" width="700"/> </p></h3>
+<h3 align="center"><img src="image/stable.jpg" alt="" height="300" width="700"/> </p></h3>
 <br>
 
 # Step:4 Final Outlook
@@ -69,4 +70,5 @@ The rest work is of connections. Now, Connection needs to be done carefully and 
    ### This is the final outlook of the project.
 ### In this we will get our reflection with the digital updation of various feature in the mirror itself.
 
-<h3 align="center"><img src="image/1_ET8BI0lSvOW8w7z6xfI6YQ.jpeg" alt="" height="500" width="780" /> </p> </h3>
+<h3 align="center"><img src="image/semifi.jpeg" alt="" height="500" width="780" /> </p> </h3>
+<h3 align="center"><img src="image/finall.jpeg" alt="" height="500" width="780" /> </p> </h3>
