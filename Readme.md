@@ -66,7 +66,8 @@ It also kind of explains that when MagPi, the official Raspberry Pi Magazine, co
 >Two-way mirror <br>
 >raspberry pi <br>
 >led light <br>
-The rest work is of connections. Now, Connection needs to be done carefully and the connection should be more Clean and well connected. 
+
+##### The rest work is of connections. Now, Connection needs to be done carefully and the connection should be more Clean and well connected.IF possible try to connect all the systems inside the frame box with the help of multi-socket . so it will seems more clean as after doing so you will have only one wire outside the frame that you want to plug-in in the power supply.
 
 </h3>
 <h3 align="center"><img src="image/lcd fix.jpg" alt="" height="300" width="700"/> </p></h3>
