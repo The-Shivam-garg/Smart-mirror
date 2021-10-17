@@ -126,4 +126,3 @@ It also kind of explains that when MagPi, the official Raspberry Pi Magazine, co
 [![GitHub license](https://img.shields.io/github/license/The-Shivam-garg/Smart-mirror?logo=github)](https://github.com/The-Shivam-garg/Smart-mirror/blob/master/LICENSE)
 </div>
 
-https://github.com/
