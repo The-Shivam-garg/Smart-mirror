@@ -50,7 +50,7 @@ It also kind of explains that when MagPi, the official Raspberry Pi Magazine, co
 >>	Magic Mirror Auto Start <BR>
 >>	Raspberry Pi auto restart <br>
 </h3>
-<h3 align="left"><img src="image/software.jpg" alt="" height="300" width="680" /></h3> 
+<h3 align="center"><img src="image/software.jpg" alt="" height="300" width="680" /></h3> 
 <h3 align="left"><img src="image/dack.jpg" alt="" height="300" width="680" /></h3> 
 
 
