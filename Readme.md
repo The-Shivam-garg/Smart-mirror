@@ -6,7 +6,7 @@
 ## Description:-
    #### A smart mirror, also known as a magic mirror, displays the time, weather, calendar, news, and social media updates. The magic is created by placing a transparent mirror over a screen such as a tablet, monitor, or TV. The technology is driven by a Raspberry Pi or combined Windows PC, with voice recognition and touch technology.
 
-<h3 align="center"><img src="image/Ayi.png" alt="" /> </p></h3>
+<h3 align="center"><img src="image/first.jpg" alt="" /> </p></h3>
    <div align="center">
   
 <h1 align="center"> MATERIAL </h1>
@@ -30,8 +30,10 @@
 ## Step:1  Frame Design 
 
 ### First things First, we need to make the frame of the smart mirror.
-<h3 align="center"><img src="image/fixing.jpg" alt="" height="195" width="298/> </p></h3>
-<h3 align="center"><img src="image/color.jpg" alt="" height="400" width="500"/>   </p></h3>
+<h3 align="center"><img src="image/fixing.jpg" alt="" height="195" width="300" /> </p></h3>
+<h3 align="center"><img src="image/color.jpg" alt="" height="195" width="300"/> </p></h3>
+<h3 align="center"><img src="image/paint.jpg" alt="" height="195" width="300"/> </p></h3>
+
 <br>
 
 # Step:2 Installation
@@ -44,7 +46,9 @@
 >>	Magic Mirror Auto Start <BR>
 >>	Raspberry Pi auto restart <br>
 </h3>
-<h3 align="left"><img src="image/software.jpg" alt="" height="300" width="480" /></h3> 
+<h3 align="left"><img src="image/software.jpg" alt="" height="300" width="680" /></h3> 
+<h3 align="left"><img src="image/dack.jpg" alt="" height="300" width="680" /></h3> 
+
 
 ## IF you want a Guide to install all the softwares you can check out this blog post [Program the Raspberry Pi for SMART MIRROR](https://shivanshh.hashnode.dev/program-the-raspberry-pi-for-smart-mirror)
 <BR>
