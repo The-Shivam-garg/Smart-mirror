@@ -11,7 +11,7 @@
   
 <h1 align="center"> MATERIAL </h1>
 
-Material Required to make this smart mirror is given below .The budget stated below is the maximum budget with the best qualities of product we have counted in ; you can also minimize the budget by taking any other alternative product insted of this , or if you want to purchase this one , i have embedded down the links in the list itself.
+#### Material Required to make this smart mirror is given below .The budget stated below is the maximum budget with the best qualities of product we have counted in ; you can also minimize the budget by taking any other alternative product insted of this , or if you want to purchase this one , i have embedded down the links in the list itself.
 
 | Components-Required     |Cost | 
 | :---:        |    :----   |  
@@ -61,6 +61,7 @@ It also kind of explains that when MagPi, the official Raspberry Pi Magazine, co
 ### NOW it’s the time to integrate all the components, in the previous steps we are done with the frame and software installed raspberry pi. Now we have to integrate the following into the frame: -
 
 <h3 align="left">
+
 >monitor screen <br>
 >Two-way mirror <br>
 >raspberry pi <br>
@@ -85,7 +86,7 @@ The rest work is of connections. Now, Connection needs to be done carefully and 
 
 <h2>📬 Contact</h2>
 
-If you want to contact me, you can reach me through below Social handles.
+#### If you want to contact me, you can reach me through below Social handles.
 
 <div align="center">
 
