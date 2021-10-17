@@ -30,9 +30,8 @@
 ## Step:1  Frame Design 
 
 ### First things First, we need to make the frame of the smart mirror.
-<h3 align="center"><img src="image/fixing.jpg" alt="" height="195" width="300" />  <img src="image/color.jpg" alt="" height="195" width="300"/> </p></h3>
-<h3 align="center"> </p></h3>
-<h3 align="center"><img src="image/paint.jpg" alt="" height="195" width="300"/> </p></h3>
+<h3 align="center"><img src="image/fixing.jpg" alt="" height="195" width="300" />  <img src="image/fixing1.jpg" alt="" height="195" width="300"/> </p></h3>
+<h3 align="center"><img src="image/color.jpg" alt="" height="195" width="300"/> <img src="image/paint.jpg" alt="" height="195" width="300"/> </p></h3>
 
 <br>
 
