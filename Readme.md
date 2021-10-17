@@ -103,7 +103,6 @@ If you want to contact me, you can reach me through below Social handles.
 
 <div align="center">
 
-<a href="https://github.com/The-Shivam-garg/MP-PersonalPortfolio"><img src="https://sloc.xyz/github/The-Shivam-garg/MP-PersonalPortfolio" alt="LOC" /></a>
 <a href="https://github.com/The-Shivam-garg/MP-PersonalPortfolio"><img src="https://img.shields.io/github/stars/The-Shivam-garg/MP-PersonalPortfolio" alt="Stars Badge" /></a>
 <a href="https://github.com/The-Shivam-garg/MP-PersonalPortfolio/network/members"><img src="https://img.shields.io/github/forks/The-Shivam-garg/MP-PersonalPortfolio" alt="Forks Badge" /></a>
 <a href="https://github.com/The-Shivam-garg/MP-PersonalPortfolio/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/The-Shivam-garg/MP-PersonalPortfolio?color=2b9348" ></a>
