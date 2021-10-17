@@ -70,5 +70,5 @@ The rest work is of connections. Now, Connection needs to be done carefully and 
    ### This is the final outlook of the project.
 ### In this we will get our reflection with the digital updation of various feature in the mirror itself.
 
-<h3 align="center"><img src="image/semifi.jpeg" alt="" height="500" width="780" /> </p> </h3>
-<h3 align="center"><img src="image/finall.jpeg" alt="" height="500" width="780" /> </p> </h3>
+<h3 align="center"><img src="image/semifi.jpg" alt="" height="500" width="780" /> </p> </h3>
+<h3 align="center"><img src="image/finall.jpg" alt="" height="500" width="780" /> </p> </h3>
