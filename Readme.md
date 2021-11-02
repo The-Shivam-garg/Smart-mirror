@@ -19,7 +19,7 @@
 | [Pi 4 case](https://www.amazon.in/s?k=pi+case&ref=nb_sb_noss_2)   | 250/-.    | issued.© 2021 Shivam Garg
 | [Pi 4 adapter ](https://www.amazon.in/s?k=pi+adapter&ref=nb_sb_noss_2)     | 750/- |
 | [LED monitor ](https://www.amazon.in/s?k=lcd+monitor&ref=nb_sb_noss_2)     | 10000/-. 
-| [Two-way mirror ]()     | 100/-. 
+| [Two-way mirror ]()     | 1000/-. 
 | [SD card (32 GB) ](https://www.amazon.in/s?k=sd+card+32+gb&ref=nb_sb_ss_ts-doa-p_4_4)     | 400/-. 
 | [HDMI cable ](https://www.amazon.in/s?k=hdmi+cables&ref=nb_sb_ss_ts-doa-p_4_7)     | 200/-. 
 | [Speaker ](https://www.amazon.in/s?k=small+speaker&ref=nb_sb_noss_1)     | 500/-. 
