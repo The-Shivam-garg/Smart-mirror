@@ -21,11 +21,11 @@
 | [LED monitor ](https://www.amazon.in/s?k=lcd+monitor&ref=nb_sb_noss_2)     | 10000/-. 
 | [Two-way mirror ]()     | 1000/-. 
 | [SD card (32 GB) ](https://www.amazon.in/s?k=sd+card+32+gb&ref=nb_sb_ss_ts-doa-p_4_4)     | 400/-. 
-| [HDMI cable ](https://www.amazon.in/s?k=hdmi+cables&ref=nb_sb_ss_ts-doa-p_4_7)     | 200/-. 
+| [HDMI cable ](https://www.amazon.in/s?k=hdmi+cables&ref=nb_sb_ss_ts-doa-p_4_7)     | 400/-. 
 | [Speaker ](https://www.amazon.in/s?k=small+speaker&ref=nb_sb_noss_1)     | 500/-. 
 | [Microphone](https://www.amazon.in/s?k=microphone&ref=nb_sb_noss_2)     | 200/-. 
 | [LED lights ](https://www.amazon.in/s?k=lcd+light&ref=nb_sb_noss_1)     | 400/-.
-| Total Components-Cost    | 20,200/- | 
+| Total Components-Cost    | 20,400/- | 
 
 
 # : Procedure :
